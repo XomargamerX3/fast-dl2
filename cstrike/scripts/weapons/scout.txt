@@ -1,0 +1,74 @@
+"Weapon_Scout.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/ssg08/ssg08_01.wav"
+}
+"Weapon_SSG08.BoltBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_BoltBack.wav"
+	
+}
+
+"Weapon_SSG08.BoltForward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_BoltForward.wav"
+	
+}
+
+"Weapon_SSG08.ClipHit"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_Cliphit.wav"
+	
+}
+
+"Weapon_SSG08.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_clipin.wav"
+	
+}
+
+"Weapon_SSG08.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_clipout.wav"
+	
+}
+
+"Weapon_SSG08.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\ssg08\ssg08_draw.wav"
+	
+}

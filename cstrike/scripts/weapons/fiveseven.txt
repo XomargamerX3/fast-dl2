@@ -1,0 +1,74 @@
+"Weapon_FiveSeveN.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/fiveseven/fiveseven_clipout.wav"
+}
+"Weapon_FiveSeveN.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/fiveseven/fiveseven_clipin.wav"
+}
+"Weapon_FiveSeveN.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/fiveseven/fiveseven_sliderelease.wav"
+}
+"Weapon_FiveSeveN.SlideBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/fiveseven/fiveseven_slideback.wav"
+}
+"Weapon_FiveSeveN.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/fiveseven/fiveseven_draw.wav"
+}
+"Weapon.WeaponMove1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.5"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/movement1.wav"
+}
+
+"Weapon.WeaponMove2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.5"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/movement2.wav"
+}
+
+"Weapon.WeaponMove3"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.5"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/movement3.wav"
+}

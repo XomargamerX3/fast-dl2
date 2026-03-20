@@ -1,0 +1,101 @@
+"Weapon_Knife.Deploy"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.6"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+	"wave"			")weapons/bknife/bknife_draw01.wav"
+
+}
+
+"Weapon_Knife.Hit"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave" ")weapons/knife/knife_hit1.wav"
+		"wave" ")weapons/knife/knife_hit2.wav"
+		"wave" ")weapons/knife/knife_hit3.wav"
+		"wave" ")weapons/knife/knife_hit4.wav"
+	}
+
+}
+
+"Weapon_Knife.HitWall"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+	"rndwave"
+	{
+		"wave"	")weapons/knife/knife_hit_01.wav"
+		"wave"	")weapons/knife/knife_hit_02.wav"
+		"wave"	")weapons/knife/knife_hit_03.wav"
+		"wave"	")weapons/knife/knife_hit_04.wav"
+		"wave"	")weapons/knife/knife_hit_05.wav"
+	}
+}
+
+"Weapon_Knife.Slash"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+				"wave" ")weapons/knife/knife_slash1.wav"
+				"wave" ")weapons/knife/knife_slash2.wav"
+	}
+
+}
+
+"Weapon_Knife.Stab"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+	"wave"  		")weapons/knife/knife_stab.wav"
+	
+}
+"ButterflyKnife.draw01"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.6"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"wave"			")weapons/bknife/bknife_draw01.wav"
+}
+
+"ButterflyKnife.look02_a"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.6"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"wave"			")weapons/bknife/bknife_look02_a.wav"
+}
+
+"ButterflyKnife.look02_b"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.6"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"wave"			")weapons/bknife/bknife_look02_b.wav"
+}
+
+"ButterflyKnife.backstab02"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.6"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	"wave"			")weapons/bknife/bknife_backstab02.wav"
+}
+

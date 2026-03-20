@@ -1,0 +1,100 @@
+"Weapon_AUG.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "weapons/aug/aug_01.wav"
+		"wave" "weapons/aug/aug_02.wav"
+		"wave" "weapons/aug/aug_03.wav"
+		"wave" "weapons/aug/aug_04.wav"
+
+	}
+}
+
+"Weapon_AUG.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_clipin.wav"
+	
+}
+
+"Weapon_AUG.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_clipout.wav"
+	
+}
+
+"Weapon_AUG.Cliphit"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_cliphit.wav"
+	
+}
+
+"Weapon_AUG.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_boltpull.wav"
+	
+}
+
+"Weapon_AUG.Boltrelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_boltrelease.wav"
+	
+}
+
+"Weapon_AUG.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/aug/aug_draw.wav"
+	
+}
+"Weapon_AUG.ZoomIn"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_zoom_in.wav"
+}
+"Weapon_AUG.ZoomOut"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_zoom_out.wav"
+}

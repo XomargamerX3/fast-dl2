@@ -1,0 +1,61 @@
+"M18.smoke"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+	"wave"			"weapons\M5210\t_smoke01.wav"
+	"wave"			"weapons\M5210\t_smoke02.wav"
+	"wave"			"weapons\M5210\t_smoke03.wav"
+	}
+}
+
+"BaseSmokeEffect.Sound"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_85dB"
+	
+
+	"wave"		"^weapons/M5210\M5210 Explode.wav"
+		
+}
+"Flashbang.Bounce"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M5210\M5210 Bounce.wav"
+}
+"CSGO M5210.Pull"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M5210\M5210 Pull.wav"
+}
+"CSGO M5210.Deploy"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M5210\M5210 Deploy.wav"
+}
+"CSGO M5210.Throw"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M5210\M5210 Throw.wav"
+}

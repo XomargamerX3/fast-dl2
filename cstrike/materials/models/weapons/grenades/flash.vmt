@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	$baseTexture                "models\weapons\grenades\flash"
+	"$phongexponenttexture" 	"models\weapons\grenades\flash_exponent"
+	"$phong" "1"
+	"$phongexponent" "21"
+	"$phongboost" "30"
+	"$phongalbedoboost" "30"
+	"$phongfresnelranges" "[1 1 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+}

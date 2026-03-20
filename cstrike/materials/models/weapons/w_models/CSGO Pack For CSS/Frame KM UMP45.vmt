@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+$baseTexture "models/weapons/v_models/smg_ump45/smg_ump45"
+
+}

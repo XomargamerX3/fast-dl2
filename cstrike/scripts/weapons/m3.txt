@@ -1,0 +1,53 @@
+"Weapon_M3.Single"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/nova/nova-1.wav"
+}
+"Weapon_Nova.PumpDuringShot"
+{
+      "channel"        "CHAN_ITEM"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/nova/nova_pump.wav"
+}
+"Weapon_Nova.Insertshell"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "weapons/nova/nova_insertshell_01.wav"
+		"wave" "weapons/nova/nova_insertshell_02.wav"
+		"wave" "weapons/nova/nova_insertshell_03.wav"
+		"wave" "weapons/nova/nova_insertshell_04.wav"
+
+	}
+}
+"Weapon_Nova.Pump"
+{
+      "channel"        "CHAN_ITEM"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/nova/nova_pump.wav"
+}
+"Weapon_Nova.Draw"
+{
+      "channel"        "CHAN_ITEM"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/nova/nova_draw.wav"
+}
+

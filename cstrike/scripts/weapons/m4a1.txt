@@ -1,0 +1,99 @@
+"Weapon_M4A1.Silenced"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"rndwave"
+        {
+	        "wave"		")weapons\m4a1\m4a1_01.wav"
+                "wave"		")weapons\m4a1\m4a1_02.wav"
+                "wave"		")weapons\m4a1\m4a1_03.wav"
+                "wave"		")weapons\m4a1\m4a1_04.wav"
+        }	
+}
+"Weapon_M4A1.Single"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"rndwave"
+        {
+	        "wave"		")weapons\m4a1\m4a1_001.wav"
+                "wave"		")weapons\m4a1\m4a1_002.wav"
+                "wave"		")weapons\m4a1\m4a1_003.wav"
+                "wave"		")weapons\m4a1\m4a1_004.wav"
+        }	
+}
+"Weapon_m4a1.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_clipin.wav"
+	
+}
+"Weapon_m4a1.clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_clipout.wav"
+	
+}
+"Weapon_M4A1.BoltBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_boltback.wav"
+	
+}
+"Weapon_M4A1.BoltForward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_boltforward.wav"
+	
+}
+"Weapon_M4A1.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_draw.wav"
+	
+}
+"Weapon_m4a1.silencer_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_silencer_on.wav"
+	
+}"Weapon_m4a1.silencer_off"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\m4a1\m4a1_silencer_off.wav"
+	
+}

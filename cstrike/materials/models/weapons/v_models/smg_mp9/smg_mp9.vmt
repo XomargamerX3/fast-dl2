@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\smg_mp9\smg_mp9"
+	"$phongexponenttexture" 	"models\weapons\v_models\smg_mp9\smg_mp9_exponent"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "71"
+	"$phongalbedoboost" "71"
+	"$phongfresnelranges" "[.71 .71 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+	
+}

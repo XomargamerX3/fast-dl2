@@ -1,0 +1,28 @@
+"Weapon_XM1014.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\xm1014\xm1014_draw.wav"
+	
+}
+
+
+"Weapon_XM1014.InsertShell"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "weapons\xm1014\xm1014_insertshell_01.wav"
+		"wave" "weapons\xm1014\xm1014_insertshell_02.wav"
+		"wave" "weapons\xm1014\xm1014_insertshell_03.wav"
+
+	}
+	
+}

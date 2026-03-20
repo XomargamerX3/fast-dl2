@@ -1,0 +1,18 @@
+"Vertexlitgeneric"
+{ 
+"$basetexture" "models\sporty\glove_sporty"
+"$envmap" env_cubemap 
+"$envmaptint" "[ .01 .01 .02 ]" 
+"$normalmapalphaenvmapmask" 1 
+"$bumpmap" "models\sporty\glove_sporty_normal" 
+"$phongexponenttexture" "models\sporty\glove_sporty_exp"
+"$phong" 1 
+"$phongboost" .1 
+"$phongalbedoboost" .1 
+"$phongtint" "[0.7 0.8 1]" 
+"$phongfresnelranges" "[1 1 3]" 
+"$rimlight" 1 
+"$rimlightexponent" 15 
+"$rimlightboost" .1 
+"$rimmask" 1 
+}

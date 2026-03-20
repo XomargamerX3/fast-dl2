@@ -1,0 +1,82 @@
+"Weapon_FAMAS.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "weapons/famas/famas_01.wav"
+		"wave" "weapons/famas/famas_02.wav"
+		"wave" "weapons/famas/famas_03.wav"
+		"wave" "weapons/famas/famas_04.wav"
+
+	}
+}
+
+"Weapon_FAMAS.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_clipin.wav"
+	
+}
+
+"Weapon_FAMAS.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_clipout.wav"
+	
+}
+
+"Weapon_FAMAS.Cliphit"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_cliphit.wav"
+	
+}
+
+"Weapon_FAMAS.BoltBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_boltback.wav"
+	
+}
+
+"Weapon_FAMAS.BoltForward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_boltforward.wav"
+	
+}
+
+"Weapon_FAMAS.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/famas/famas_draw.wav"
+	
+}

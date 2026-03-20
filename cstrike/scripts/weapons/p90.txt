@@ -1,0 +1,78 @@
+"Weapon_P90.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"	"weapons/p90/p90_01.wav"
+		"wave"	"weapons/p90/p90_02.wav"
+		"wave"	"weapons/p90/p90_03.wav"
+	}
+	
+}
+"Weapon_P90.Cliprelease"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_cliprelease.wav"
+}
+"Weapon_P90.Clipout"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_clipout.wav"
+}
+"Weapon_P90.Clipin"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_clipin.wav"
+}
+"Weapon_P90.Cliphit"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_cliphit.wav"
+}
+"Weapon_P90.BoltBack"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_boltback.wav"
+}
+"Weapon_P90.BoltForward"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_boltforward.wav"
+}
+"Weapon_P90.Draw"
+{
+      "channel"        "CHAN_WEAPON"
+      "volume"        "1.0"
+      "CompatibilityAttenuation"    "ATTN_NORM"
+      "pitch"        "95,105"
+	  
+	  "wave"		"weapons/p90/p90_draw.wav"
+}

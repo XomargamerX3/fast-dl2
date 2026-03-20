@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\rif_aug\rif_aug"
+	"$phongexponenttexture" 	"models\weapons\v_models\rif_aug\rif_aug_exponent"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "66"
+	"$phongalbedoboost" "66"
+	"$phongfresnelranges" "[.66 .66 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+	
+}

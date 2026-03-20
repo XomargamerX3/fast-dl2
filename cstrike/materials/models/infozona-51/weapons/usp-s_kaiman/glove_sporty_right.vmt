@@ -1,0 +1,13 @@
+"Vertexlitgeneric"
+{
+	$basetexture 		"models\infozona-51\weapons\usp-s_kaiman\glove_sporty"
+	$bumpmap 		"models\infozona-51\weapons\usp-s_kaiman\glove_sporty_normal"
+	"$phong"                "1"
+	"$phongboost"           "2"
+	"$phongtint"            "[1 1 1]"
+	"$phongfresnelranges"   "[.5 .5 1]"
+	"$rimlight"             "1"
+	"$rimlightexponent"     "2"
+	"$rimlightboost"        ".2"
+	"$rimmask"              1
+}

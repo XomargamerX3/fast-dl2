@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\csgo_scar20\snip_scar20"
+	"$phongexponenttexture" 	"models\weapons\csgo_scar20\snip_scar20_exponent"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "83"
+	"$phongalbedoboost" "83"
+	"$phongfresnelranges" "[.83 .83 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+	
+}

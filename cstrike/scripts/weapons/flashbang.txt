@@ -1,0 +1,66 @@
+"M84.Flash"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+	
+  	"rndwave"
+	{
+	"wave"			"weapons\M84\t_flashbang01.wav"
+	"wave"			"weapons\M84\t_flashbang03.wav"
+	"wave"			"weapons\M84\t_flashbang04.wav"
+	}
+}
+
+"Flashbang.Explode"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_85dB"
+	"pitch"			"70,130"
+
+	
+
+	"rndwave"
+	{
+		"wave"	"^weapons/M84\M84 Explode 1.wav"	
+		"wave"	"^weapons/M84\M84 Explode 2.wav"	
+	}
+}
+"Flashbang.Bounce"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M84\M84 Bounce.wav"
+}
+"CSGO M84.Pull"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M84\M84 Pull.wav"
+}
+"CSGO M84.Throw"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M84\M84 Throw.wav"
+}
+"CSGO M84.Deploy"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_75dB"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons/M84\M84 Deploy.wav"
+}

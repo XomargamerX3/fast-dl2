@@ -1,0 +1,142 @@
+"Weapon_c4.Initiate"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_initiate.wav"
+}
+"Weapon_c4.Draw"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_draw.wav"
+}
+"Weapon_c4.KeyPress1"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press1.wav"
+}
+"Weapon_c4.KeyPress2"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press2.wav"
+}
+"Weapon_c4.KeyPress3"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press3.wav"
+}
+"Weapon_c4.KeyPress4"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press4.wav"
+}
+"Weapon_c4.KeyPress5"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press5.wav"
+}
+"Weapon_c4.KeyPress6"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press6.wav"
+}
+"Weapon_c4.KeyPress7"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\key_press7.wav"
+}
+"Weapon_c4.PlantQuiet"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_plant_quiet.wav"
+}
+"Weapon_c4.Plant"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_plant.wav"
+}
+"Weapon_c4.Disarmfinish"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_disarmfinish.wav"
+}
+"Weapon_c4.Disarmstart"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_disarmstart.wav"
+}
+"C4.PlantSound"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+
+	"wave"	"weapons\csgo\c4\c4_beep1.wav"
+}
+"Weapon_c4.Explode1"
+{
+	"channel"		"cHAN_WEAPON"
+	"volume"		"1.0"
+	"compatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\csgo\c4\c4_explode1.wav"
+}
+
+
+
+
+
+
+
+

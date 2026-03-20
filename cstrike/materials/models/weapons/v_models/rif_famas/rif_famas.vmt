@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\rif_famas\rif_famas"
+	"$phongexponenttexture" 	"models\weapons\v_models\rif_famas\rif_famas_exponent"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "83"
+	"$phongalbedoboost" "83"
+	"$phongfresnelranges" "[.83 .83 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+	
+}
